@@ -49,3 +49,36 @@
     position: relative;
     
 }
+
+
+.inputContainer {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    resize: vertical;
+  }
+  
+  .responseContainer {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+  }
+  
+  .responseTitle {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .responseText {
+    font-size: 16px;
+    line-height: 1.5;
+  }
